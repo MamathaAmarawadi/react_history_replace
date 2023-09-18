@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.btn {
+  background-color: #0b69ff;
+  border-width: 0px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.row-seq {
+  display: flex;
+  justify-content: space-around;
+}
+.pic {
+  height: 200px;
+  width: 200px;
+}
+.para {
+  margin: 20px;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
